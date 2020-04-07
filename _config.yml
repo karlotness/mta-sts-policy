@@ -1,2 +1,1 @@
-include:
-  - .well-known/mta-sts.txt
+include: [".well-known/mta-sts.txt"]
